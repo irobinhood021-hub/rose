@@ -362,3 +362,10 @@
     opacity: 1;
   }
 }
+/* Mobile view fix */
+@media (max-width: 768px) {
+  .container {
+    transform: scale(1.25);
+  }
+}
+
