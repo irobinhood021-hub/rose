@@ -365,7 +365,7 @@
 /* Mobile view fix */
 @media (max-width: 768px) {
   .container {
-    transform: scale(1.25);
+    transform: scale(2);
   }
 }
 
